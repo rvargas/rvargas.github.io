@@ -1,88 +1,82 @@
 {
   "personalInfo": {
-    "fullName": "Eduardo García",
-    "email": "emumaniacx@gmail.com",
-    "avatarUrl": "http://i.imgur.com/S4gHgGf.jpg"
+    "fullName": "Rafael Vargas Rosas",
+    "email": "rafael@rafaelvargas.me",
+    "avatarUrl": "http://i.imgur.com/DrS3A2F.jpg"
   },
   "cover": {
-    "url": "https://www.flickr.com/photos/gtps/13616521653/in/pool-lentetapatio",
-    "attribution": "Alejandro Castro @ Flickr"
+    "url": "https://www.flickr.com/photos/scotbot/7754264462/",
+    "attribution": "Scott Wylie @ Flickr"
   },
   "social": {
-    "github": "thewarpaint",
-    "linkedIn": "https://www.linkedin.com/profile/view?id=352389770"
+    "github": "rvargas",
+    "linkedIn": "https://www.linkedin.com/pub/rafael-vargas-rosas/78/8/a63"
   },
   "academic": [
     {
-      "start": "2006-08-01",
-      "end": "2010-07-01",
+      "start": "2008-09-30",
+      "end": "2012-05-10",
       "school": {
-        "name": "Superior School of Computer Sciences (ESCOM)",
-        "parentOrganization": "National Polythecnic Institute",
-        "url": "http://www.escom.ipn.mx/"
+        "name": "Universidad Autónoma Metropolitana - Azcapotzalco",
+        "url": "http://www.azc.uam.mx"
       },
       "degree": "BS in Computer Science, Engineer",
       "degreeStatus": "Undergraduate, degree in progress",
       "location": "Mexico City"
     },
     {
-      "start": "2003-08-01",
-      "end": "2006-07-01",
+      "start": "2005-08-01",
+      "end": "2008-07-01",
       "school": {
-        "name": "Instituto Fundación Azteca",
-        "url": "http://www.fundacionazteca.org/contenido.aspx?p=planteles"
+        "name": "Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas (UPIITA)",
+        "parentOrganization": " Instituto Politécnico Nacional",
+        "url": "http://www.upiita.ipn.mx/"
       },
-      "degree": "Computer Technician"
+      "degree": "BS in Telematics, Engineer",
+      "degreeStatus": "Unfinished",
+      "location": "Mexico City"
+    },
+    {
+      "start": "2001-08-01",
+      "end": "2005-07-01",
+      "school": {
+        "name": "Centro de Estudios Científicos y Tecnológicos No. 9 'Juan de Dios Bátiz Paredes' (CECYT 9)",
+        "parentOrganization": " Instituto Politécnico Nacional",
+        "url": "http://www.cecyt9.ipn.mx/"
+      },
+      "degree": "Digital Systems Technical"
     }
   ],
   "experience": [
     {
-      "start": "2014-06-01",
+      "start": "2011-01-11",
       "end": null,
       "isCurrent": true,
-      "company": {
-        "name": "Ooyala",
-        "url": "http://ooyala.com",
-        "linkedInUrl": "https://linkedin.com/company/93902"
-      },
-      "position": "Frontend Engineer",
-      "location": "Guadalajara, Mexico",
-      "description": ""
-    },
-    {
-      "start": "2010-07-01",
-      "end": "2014-05-01",
-      "isCurrent": false,
       "company": {
         "name": "Vinco Orbis Proyectos",
         "url": "http://vincoorbis.com",
         "linkedInUrl": "https://linkedin.com/company/2511778"
       },
-      "position": "Project Manager",
+      "position": "Software engineer",
       "location": "Mexico City, Mexico",
       "description": ""
     }
   ],
   "projects": [
     {
-      "name": "Posti",
-      "description": "Web app to create customizable maps to display branch locations",
-      "url": "http://posti.vincoorbis.com/"
+      "name": "Club Premier",
+      "description": "Loyalty program web app",
+      "url": "http://www.clubpremier.com/"
     },
     {
-      "name": "¿Dónde hay un cajero?",
-      "description": "Web app to find ATMs in Mexico",
-      "url": "http://dondehayuncajero.com/"
+      "name": "Prevenissste",
+      "description": "Web app to manage clinical questionnaires",
+      "url": "http://www.prevenissste.gob.mx/"
     },
     {
-      "name": "Facturito One",
-      "description": "List of electronic invoicing websites for several companies",
-      "url": "http://facturito.com/one/"
-    },
-    {
-      "name": "Hecho en CDMX",
-      "description": "Campaign to identify Mexico City-based startups and apps, and display badges on their websites",
-      "url": "http://hechoencd.mx/"
+      "name": "Zave App",
+      "description": "Mobile app to save money on a recurring basis",
+      "url": "http://zaveapp.com/"
     }
   ],
   "languages": [
@@ -95,14 +89,11 @@
       "level": "intermediate"
     },
     {
-      "name": "Italian",
+      "name": "German",
       "level": "basic"
     }
   ],
   "skills": [
-    {
-      "name": "Frontend development"
-    },
     {
       "name": "Backend development"
     },
@@ -110,7 +101,13 @@
       "name": "Project management"
     },
     {
+      "name": "Algorithm design"
+    },
+    {
       "name": "REST API design"
+    },
+    {
+      "name": "SOAP webservices"
     },
     {
       "name": "Leadership"
@@ -128,42 +125,25 @@
       "name": "Open source"
     },
     {
-      "name": "Agile methodology"
-    },
-    {
-      "name": "Test driven development"
-    },
-    {
-      "name": "Database architecture"
-    },
-    {
       "name": "Version control and branching models"
     }
   ],
   "technologies": [
     {
-      "name": "HTML5",
-      "url": "http://en.wikipedia.org/wiki/HTML5"
+      "name": "Groovy",
+      "url": "http://groovy-lang.org/"
     },
     {
-      "name": "Javascript",
-      "url": "http://en.wikipedia.org/wiki/JavaScript"
+      "name": "Python",
+      "url": "https://www.python.org/"
     },
     {
-      "name": "AngularJS",
-      "url": "http://angularjs.org"
+      "name": "Grails",
+      "url": "https://grails.org/"
     },
     {
-      "name": "CSS3",
-      "url": "http://en.wikipedia.org/wiki/Cascading_Style_Sheets"
-    },
-    {
-      "name": "LESS",
-      "url": "http://lesscss.org/"
-    },
-    {
-      "name": "SASS",
-      "url": "http://sass-lang.com/"
+      "name": "Drone",
+      "url": "https://drone.io/"
     },
     {
       "name": "Git",
@@ -172,26 +152,6 @@
     {
       "name": "GitHub",
       "url": "http://github.com/"
-    },
-    {
-      "name": "Vagrant",
-      "url": "http://vagrantup.com/"
-    },
-    {
-      "name": "Sentry",
-      "url": "http://getsentry.com/"
-    },
-    {
-      "name": "PHP",
-      "url": "http://php.net/"
-    },
-    {
-      "name": "Karma",
-      "url": "http://karma-runner.github.io/"
-    },
-    {
-      "name": "Jasmine",
-      "url": "http://jasmine.github.io/"
     },
     {
       "name": "MySQL",
